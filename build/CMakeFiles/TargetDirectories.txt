@@ -1,0 +1,4 @@
+/home/nvidia/proj-fire/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/proj-fire/build/CMakeFiles/edit_cache.dir
+/home/nvidia/proj-fire/build/CMakeFiles/HelloWorldService.dir
+/home/nvidia/proj-fire/build/CMakeFiles/HelloWorldClient.dir
